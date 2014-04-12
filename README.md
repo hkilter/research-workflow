@@ -19,7 +19,8 @@
 |Reference style|Inline style|HTML style|
 |----- |----- |----- |
 |![Figure 1: A SVG file.][6]| ![Figure 1: A SVG file.](http://hkilter.com/-images-test/5.svg)| <img src="http://www.hkilter.com/-images-test/5.svg" style="width: 60px;"/>|
-[Link SVGs]
+
+This SVG file is a logo of [A List Apart website][7].   
 
 **Tables**
 
@@ -43,3 +44,4 @@
 [4]: http://citationstyles.org/
 [5]: https://github.com/citation-style-language/styles
 [6]: http://hkilter.com/-images-test/5.svg
+[7]: http://alistapart.com/
