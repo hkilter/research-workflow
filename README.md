@@ -17,7 +17,7 @@
 * Embed and link SVG files to Markdown.
 
 |Reference style|Inline style|HTML style|
-|===== |===== |===== |
+|----- |----- |----- |
 |![Figure 1: A SVG file.][6]| ![Figure 1: A SVG file.](http://hkilter.com/-images-test/5.svg)| <img src="http://www.hkilter.com/-images-test/5.svg" style="width: 60px;"/>|
 [Link SVGs]
 
