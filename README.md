@@ -3,14 +3,14 @@ research-workflow
 
 A personal research workflow
 
-## Write in Markdown.
+## Write in Markdown
 
-* Use research.css to preview in Marked.
+* Use [research.css][1] to preview in [Marked][2].
 
 ## Citation and references
 
-* Add references to Mendeley.
-* Export references from Mendeley to a .bib file.
+* Add references to [Mendeley][3].
+* Export references from *Mendeley Desktop* to a .bib file.
 * Use a CSL file to furnish.
 
 ## Images and graphics
@@ -33,3 +33,7 @@ A personal research workflow
 * Use Pandoc to create HTML and PDF.
 * Publish HTML to the website.
 * Send PDF to several social media.
+
+[1]: https://github.com/hkilter/research-workflow/blob/master/research.css
+[2]: http://markedapp.com
+[3]: http://www.mendeley.com
